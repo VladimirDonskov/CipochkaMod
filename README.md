@@ -8,6 +8,13 @@
 - цыпленок переименован в `Cipochka` или `Цыпочка` -> моя модель цыпленка
 - остальное в работе
 
+## Примеры
+
+![Example 1](Example1.1.png)
+![Example 2](Example1.2.png)
+![Example 3](Example1.3.png)
+![Example 4](Example1.4.png)
+
 ## Версии и задействованные инструменты
 
 - Minecraft: `1.21.11`
