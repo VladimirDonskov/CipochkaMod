@@ -51,4 +51,4 @@ macOS / Linux:
 - `src/main/resources/assets/cipochka/textures/entity/chicken/cipochka.png`
 - `src/main/resources/assets/cipochka/textures/entity/chicken/cipochka_baby.png`
 
-Можете дополнять мод, если хотите.
+Дополнять и привносить что-то своё можно. 
