@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.cipochka.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChickenEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

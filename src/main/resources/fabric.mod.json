@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "cipochka",
+  "version": "${version}",
+  "name": "Cipochka",
+  "description": "Renamed chickens use custom adult and baby textures.",
+  "authors": [
+    "OpenAI for Dummy"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.cipochka.CipochkaClient"
+    ]
+  },
+  "mixins": [
+    "cipochka.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.2",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
